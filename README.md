@@ -13,6 +13,8 @@ but GTK, and WIN32 support may be added, because Scintilla nativelly support the
 
 
 ## Major features ##
+- syntax highlighting (many langages supported, and possibilies to add keywords, etc)
+- code folding
 - Very few lines of code to use
 - Ability to load/save file, like any editor around
 - Hightlight lines
